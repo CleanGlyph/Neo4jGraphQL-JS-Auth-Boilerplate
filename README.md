@@ -6,7 +6,9 @@ Simple Neo4j GraphQL Server with basic auth in Node.js to get started and hopefu
 ### 1. Get node packages downloaded
 ```bash
 npm install
+npm install nodemon --save-dev
 ```
+
 ### 2. Set up your .env
 
 Use the ._env as an example inside the folder, where you just need to add the Neo4j connection info.
