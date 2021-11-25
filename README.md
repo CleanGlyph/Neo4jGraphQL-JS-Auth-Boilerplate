@@ -24,7 +24,7 @@ Once found & enabled then copy paste the address into your .env
 
 ## Running 
 
-### Dev mode with hotreloads
+### Dev mode with hot reloads
 ```bash
 npm run dev
 ```
